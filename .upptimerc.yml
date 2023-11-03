@@ -12,11 +12,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /uptime-monitor
+  baseUrl: /Uptime-Monitor
   logoUrl: https://media.discordapp.net/attachments/1101743360974262273/1101748300874530897/BetterRTX_OnAurora.png
   name: Uptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: BetterRTX's Uptime Monitor
+  introMessage: "BetterRTX's Uptime Monitor"
   navbar:
     - title: Status
       href: /
