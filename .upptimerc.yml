@@ -9,6 +9,7 @@ sites:
       - ABUCKY0
   - name: API Mirror (Hosted on Vercel)
     url: https://betterrtx.vercel.app/
+    assignees:
       - ABUCKY0
 
 status-website:
