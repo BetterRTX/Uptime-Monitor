@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "1.16%",
-    "uptimeDay": "1.16%",
-    "uptimeWeek": "1.16%",
-    "uptimeMonth": "1.16%",
-    "uptimeYear": "1.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 787,
     "timeDay": 787,
     "timeWeek": 787,
     "timeMonth": 787,
     "timeYear": 787,
-    "dailyMinutesDown": {
-      "2023-12-26": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
