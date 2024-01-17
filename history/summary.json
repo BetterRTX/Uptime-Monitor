@@ -22,19 +22,19 @@
     "url": "https://betterrtx.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/betterrtx.vercel.app.ico",
     "slug": "api-mirror-hosted-on-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 1204,
-    "timeWeek": 828,
-    "timeMonth": 741,
-    "timeYear": 661,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 656,
+    "timeDay": 882,
+    "timeWeek": 762,
+    "timeMonth": 727,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
