@@ -4,19 +4,19 @@
     "url": "https://bedrock.graphics/api",
     "icon": "https://icons.duckduckgo.com/ip3/bedrock.graphics.ico",
     "slug": "api-on-bedrock-graphics",
-    "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
-    "time": 118,
-    "timeDay": 118,
-    "timeWeek": 118,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "status": "up",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 1117,
+    "timeDay": 1117,
+    "timeWeek": 1117,
+    "timeMonth": 1117,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 68
     }
   },
   {
