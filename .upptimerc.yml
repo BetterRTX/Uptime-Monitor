@@ -3,11 +3,15 @@ owner: BetterRTX # Your GitHub organization or username, where this repository l
 repo: Uptime-Monitor # The name of this repository
 
 sites:
-  - name: Main API (Hosted on Cyclic.sh)
+  - name: New API on bedrock.graphics
+    url: https://bedrock.graphics/api
+    assignees:
+      - ABUCKY0
+  - name: Legacy API (Hosted on Cyclic.sh)
     url: https://betterrtx.cyclic.app/
     assignees: 
       - ABUCKY0
-  - name: API Mirror (Hosted on Vercel)
+  - name: Legacy API Mirror (Hosted on Vercel)
     url: https://betterrtx.vercel.app/
     assignees:
       - ABUCKY0
