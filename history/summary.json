@@ -1,22 +1,22 @@
 [
   {
-    "name": "New API on bedrock.graphics",
+    "name": "API on bedrock.graphics",
     "url": "https://bedrock.graphics/api",
     "icon": "https://icons.duckduckgo.com/ip3/bedrock.graphics.ico",
-    "slug": "new-api-on-bedrock-graphics",
+    "slug": "api-on-bedrock-graphics",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 455,
-    "timeDay": 455,
-    "timeWeek": 455,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "uptime": "14.95%",
+    "uptimeDay": "14.95%",
+    "uptimeWeek": "14.95%",
+    "uptimeMonth": "14.95%",
+    "uptimeYear": "14.95%",
+    "time": 118,
+    "timeDay": 118,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-01-30": 1
+      "2024-01-30": 0
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 930,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
+    "time": 1040,
+    "timeDay": 1040,
+    "timeWeek": 1040,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 196,
-    "timeWeek": 397,
-    "timeMonth": 604,
-    "timeYear": 670,
+    "time": 655,
+    "timeDay": 135,
+    "timeWeek": 354,
+    "timeMonth": 587,
+    "timeYear": 655,
     "dailyMinutesDown": {}
   }
 ]
