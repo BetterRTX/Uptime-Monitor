@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 561,
-    "timeDay": 412,
-    "timeWeek": 628,
-    "timeMonth": 454,
-    "timeYear": 561,
+    "time": 550,
+    "timeDay": 237,
+    "timeWeek": 558,
+    "timeMonth": 441,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2024-01-30": 68
     }
@@ -24,19 +24,19 @@
     "url": "https://betterrtx.cyclic.app/",
     "icon": "https://icons.duckduckgo.com/ip3/betterrtx.cyclic.app.ico",
     "slug": "legacy-api-hosted-on-cyclic-sh",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 572,
-    "timeWeek": 700,
-    "timeMonth": 756,
-    "timeYear": 694,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.85%",
+    "time": 698,
+    "timeDay": 679,
+    "timeWeek": 721,
+    "timeMonth": 760,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-13": 92
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://betterrtx.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/betterrtx.vercel.app.ico",
     "slug": "legacy-api-mirror-hosted-on-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 3575,
-    "timeWeek": 1579,
-    "timeMonth": 1030,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.85%",
+    "time": 785,
+    "timeDay": 2444,
+    "timeWeek": 1424,
+    "timeMonth": 1003,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-13": 91
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 14,
-    "timeWeek": 44,
+    "time": 341,
+    "timeDay": 20,
+    "timeWeek": 42,
     "timeMonth": 40,
-    "timeYear": 345,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   }
 ]
