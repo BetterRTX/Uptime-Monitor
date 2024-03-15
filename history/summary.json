@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 543,
-    "timeDay": 141,
-    "timeWeek": 495,
-    "timeMonth": 436,
-    "timeYear": 543,
+    "time": 539,
+    "timeDay": 346,
+    "timeWeek": 462,
+    "timeMonth": 438,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-01-30": 68
     }
@@ -26,15 +26,15 @@
     "slug": "legacy-api-hosted-on-cyclic-sh",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
-    "time": 704,
-    "timeDay": 942,
-    "timeWeek": 724,
-    "timeMonth": 788,
-    "timeYear": 704,
+    "time": 692,
+    "timeDay": 106,
+    "timeWeek": 630,
+    "timeMonth": 758,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2024-03-13": 92
     }
@@ -46,15 +46,15 @@
     "slug": "legacy-api-mirror-hosted-on-vercel",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
-    "time": 786,
-    "timeDay": 2346,
-    "timeWeek": 1418,
-    "timeMonth": 1000,
-    "timeYear": 786,
+    "time": 789,
+    "timeDay": 926,
+    "timeWeek": 1409,
+    "timeMonth": 998,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2024-03-13": 91
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 20,
-    "timeWeek": 28,
-    "timeMonth": 40,
-    "timeYear": 338,
+    "time": 334,
+    "timeDay": 30,
+    "timeWeek": 29,
+    "timeMonth": 37,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   }
 ]
