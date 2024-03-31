@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 607,
-    "timeDay": 229,
-    "timeWeek": 1291,
-    "timeMonth": 666,
-    "timeYear": 607,
+    "time": 610,
+    "timeDay": 839,
+    "timeWeek": 1325,
+    "timeMonth": 671,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2024-01-30": 68
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/betterrtx.cyclic.app.ico",
     "slug": "legacy-api-hosted-on-cyclic-sh",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.89%",
-    "time": 695,
-    "timeDay": 170,
-    "timeWeek": 545,
-    "timeMonth": 741,
-    "timeYear": 695,
+    "uptimeYear": "99.90%",
+    "time": 700,
+    "timeDay": 1053,
+    "timeWeek": 674,
+    "timeMonth": 750,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2024-03-13": 92
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/betterrtx.vercel.app.ico",
     "slug": "legacy-api-mirror-hosted-on-vercel",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.89%",
-    "time": 811,
-    "timeDay": 1020,
-    "timeWeek": 900,
-    "timeMonth": 1030,
-    "timeYear": 811,
+    "uptimeYear": "99.90%",
+    "time": 812,
+    "timeDay": 840,
+    "timeWeek": 912,
+    "timeMonth": 1024,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2024-03-13": 91
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 18,
-    "timeWeek": 50,
-    "timeMonth": 66,
-    "timeYear": 299,
+    "time": 298,
+    "timeDay": 179,
+    "timeWeek": 74,
+    "timeMonth": 70,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   }
 ]
