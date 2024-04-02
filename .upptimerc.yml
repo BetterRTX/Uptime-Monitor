@@ -7,24 +7,6 @@ sites:
     url: https://bedrock.graphics/api
     assignees:
       - ABUCKY0
-  - name: Legacy API (Hosted on Cyclic.sh)
-    url: https://betterrtx.cyclic.app/
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 410
-    assignees: 
-      - ABUCKY0
-  - name: Legacy API Mirror (Hosted on Vercel)
-    url: https://betterrtx.vercel.app/
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 410
-    assignees:
-      - ABUCKY0
   - name: Secret Site
     url: $SECRET_SITE
     assignees:
