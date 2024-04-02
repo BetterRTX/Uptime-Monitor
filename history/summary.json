@@ -5,58 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedrock.graphics.ico",
     "slug": "api-on-bedrock-graphics",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 614,
-    "timeDay": 1060,
-    "timeWeek": 1467,
-    "timeMonth": 694,
-    "timeYear": 614,
+    "uptimeYear": "99.93%",
+    "time": 606,
+    "timeDay": 319,
+    "timeWeek": 526,
+    "timeMonth": 681,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2024-01-30": 68
-    }
-  },
-  {
-    "name": "Legacy API (Hosted on Cyclic.sh)",
-    "url": "https://betterrtx.cyclic.app/",
-    "icon": "https://icons.duckduckgo.com/ip3/betterrtx.cyclic.app.ico",
-    "slug": "legacy-api-hosted-on-cyclic-sh",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.90%",
-    "time": 710,
-    "timeDay": 1096,
-    "timeWeek": 797,
-    "timeMonth": 747,
-    "timeYear": 710,
-    "dailyMinutesDown": {
-      "2024-03-13": 92
-    }
-  },
-  {
-    "name": "Legacy API Mirror (Hosted on Vercel)",
-    "url": "https://betterrtx.vercel.app/",
-    "icon": "https://icons.duckduckgo.com/ip3/betterrtx.vercel.app.ico",
-    "slug": "legacy-api-mirror-hosted-on-vercel",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.90%",
-    "time": 815,
-    "timeDay": 1129,
-    "timeWeek": 891,
-    "timeMonth": 1020,
-    "timeYear": 815,
-    "dailyMinutesDown": {
-      "2024-03-13": 91
     }
   },
   {
@@ -70,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 121,
-    "timeWeek": 87,
-    "timeMonth": 70,
-    "timeYear": 293,
+    "time": 289,
+    "timeDay": 22,
+    "timeWeek": 51,
+    "timeMonth": 69,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   }
 ]
