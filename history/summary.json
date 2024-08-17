@@ -6,15 +6,15 @@
     "slug": "api-on-bedrock-graphics",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 564,
-    "timeDay": 484,
-    "timeWeek": 499,
-    "timeMonth": 742,
-    "timeYear": 564,
+    "time": 565,
+    "timeDay": 814,
+    "timeWeek": 560,
+    "timeMonth": 755,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2024-08-15": 4,
       "2024-01-30": 68
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 46,
-    "timeWeek": 167,
-    "timeMonth": 309,
-    "timeYear": 231,
+    "time": 230,
+    "timeDay": 138,
+    "timeWeek": 185,
+    "timeMonth": 313,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
