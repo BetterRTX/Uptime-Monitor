@@ -4,36 +4,39 @@
     "url": "https://bedrock.graphics",
     "icon": "https://icons.duckduckgo.com/ip3/bedrock.graphics.ico",
     "slug": "bedrock-graphics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 530,
-    "timeWeek": 361,
-    "timeMonth": 455,
-    "timeYear": 460,
-    "dailyMinutesDown": {}
+    "time": 459,
+    "timeDay": 479,
+    "timeWeek": 369,
+    "timeMonth": 454,
+    "timeYear": 459,
+    "dailyMinutesDown": {
+      "2025-04-04": 0
+    }
   },
   {
     "name": "API on bedrock.graphics",
     "url": "https://bedrock.graphics/api",
     "icon": "https://icons.duckduckgo.com/ip3/bedrock.graphics.ico",
     "slug": "api-on-bedrock-graphics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 47,
-    "timeWeek": 46,
-    "timeMonth": 53,
-    "timeYear": 393,
+    "time": 427,
+    "timeDay": 32,
+    "timeWeek": 42,
+    "timeMonth": 52,
+    "timeYear": 392,
     "dailyMinutesDown": {
+      "2025-04-04": 0,
       "2024-08-15": 4
     }
   }
