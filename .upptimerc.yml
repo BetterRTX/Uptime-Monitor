@@ -36,3 +36,6 @@ status-website:
 commitMessages:
   commitAuthorName: "BetterRTX Bot"
   commitAuthorEmail: "158231459+BetterRTX-Bot@users.noreply.github.com"
+
+workflowSchedule:
+  uptime: "0 0 1 1 *"
